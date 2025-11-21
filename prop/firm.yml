@@ -1,2 +1,5 @@
-original:
-  message: FIRM
+spring:
+  database:
+    url: jdbc:oralce:thin:@oracle:1521/firm
+    username: firm
+    password: firm 
